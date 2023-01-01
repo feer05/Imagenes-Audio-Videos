@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ejercicio imagenes y videos HTML</title>
+</head>
+<body>
+	<div>
+		<h1>Aprendiendo a utilzar imagenes</h1>
+		<img src="GodofWar.png" alt="God of War"/>
+
+
+	</div>
+
+	<div>
+		<h1>Aprendiendo a utilizar videos</h1>
+		<video  width=300 height=300  controls autoplay  muted loop> 
+			<source src="3 estrellas.mp4" type="video/mp4">
+		</video>
+	</div>
+	<div>
+		<h1>Aprendiendo a utilizar audio</h1>
+		<audio controls autoplay loop >
+			<source src="Quedate-.mp3" type="audio/mp3">
+		</audio>
+
+	</div>
+
+</body>
+</html>
